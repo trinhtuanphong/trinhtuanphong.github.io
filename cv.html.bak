@@ -1,0 +1,100 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   <title>David Dos Santos Ferreira</title>
+   <link type="text/css" rel="stylesheet" href="index_files/screen.css" media="screen">
+   <link type="text/css" rel="stylesheet" href="index_files/ie.css" media="screen">
+   <style type="text/css">
+      img.floatLEFT { float: left; margin: 16px }
+   </style>
+   <script type="text/javascript" src="index_files/scripts.js"></script>
+</head>
+
+<body class="home">
+
+<div id="outerwrapper">
+<div id="wrapper">
+
+<div id="dsfhead">
+  <h1></h1>
+  <div id="dsfhead_var"></div>
+</div>
+
+<div id="main">
+
+<!-- Left column -->
+    <div id="col1">
+    <ul>
+    	<li id="home"><a href="index.html">Home</a></li>
+    	<li id="vitae"><a href="cv.html">Curriculum vitae</a></li>
+    	<li id="research"><a href="research.html">Research</a></li>
+        <li id="teaching"><a href="teach.html">Teaching</a>
+    </ul>
+
+	<img src="./index_files/i/phong.jpg" width="155px">
+    </div>    
+<!-- End Left column -->    
+
+<!-- Right column -->
+    <div id="col2">
+    <div id="general">
+
+<!-- menu ngang -->
+<big><big><big><span
+ style="font-weight: bold;">&nbsp;<small><a href="index.html"><span
+ style="color: #000000; text-decoration: underline;">Home</span></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="About%20me.html"><span
+ style="color:  #000000; text-decoration: underline;">About me</span></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a style="color:  #000000;" href="Research.html"><span
+ style="text-decoration: underline;">Research</span></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a style="color:  #000000;" href="Teaching%20Experience.html"><span
+ style="text-decoration: underline;">Teaching</span></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a style="color:  #000000;" href="Contact.html"><span
+ style="text-decoration: underline;">Contact</span></a><br>
+<br>
+<br>
+<br>
+</small></span></big></big></big>
+<!-- end of menu ngang -->
+
+<!-- main content -->
+	   <h2>Tôi là ai?</h2>
+       <p>
+       David Dos Santos Ferreira <br>
+       Maître de conférences <br>
+       <a href="http://www.math.univ-paris13.fr/" target="_top"> Département de Mathématiques</a> <br>
+       <a href="http://www-galilee.univ-paris13.fr/" target="_top">Institut Galilée</a>, Office D409 <br>  
+       </p><h3>Research interests</h3>
+           Analysis,  Partial Differential Equations 
+       <h3>Contact</h3>
+      
+		
+       <p></p>
+       <h2>What's new?</h2>
+       <p>
+       </p><ul> 
+            I will be a member at the <a href="http://www.fields.utoronto.ca/">Fields Institute</a> in Toronto for the month of April.   
+       </ul>
+       <p></p>
+       <br>
+   </div>
+   </div>
+<!-- end main content -->
+
+<!-- End Right column -->
+
+<div id="footer">
+    <p><span class="left"> 
+	<a href="" onmouseover="this.href='mailto:ddsf@math.univ-paris13.fr'" onmouseout="this.href=''">ddsf@math.univ-paris13.fr</a></span>
+    Last Updated 12/15/11 </p>
+</div>
+
+</div>
+</div>
+</div>
+
+
+
+
+</body></html>

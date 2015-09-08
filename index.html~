@@ -1,0 +1,111 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   
+   <title>Trinh Tuan Phong</title>
+   
+   <link type="text/css" rel="stylesheet" href="index_files/screen.css" media="screen">
+   <link type="text/css" rel="stylesheet" href="index_files/ie.css" media="screen">
+   
+   <style type="text/css">
+      img.floatLEFT { float: left; margin: 16px }
+   </style>
+   
+   <script type="text/javascript" src="index_files/scripts.js"></script>
+</head>
+
+<body class="home">
+
+<div id="outerwrapper">
+<div id="wrapper">
+
+<div id="dsfhead">
+  <h1></h1>
+  <div id="dsfhead_var"></div>
+</div>
+
+<!-- main content -->
+<div id="main">
+
+	<!-- Left column -->
+    <div id="col1">
+	<ul>
+    	<li id="home"> <a href="index.html">Home</a> </li>
+	<li id="moreaboutme"> <a href="moreaboutme.html">Curriculum Vitae</a> </li>
+    	<li id="research"><a href="research.html">Research</a></li>
+        <li id="teaching"><a href="teaching.html">Teaching</a></li>
+       <li id="link"> <a href="link.html"> Useful links</a></li>
+    </ul>
+    
+	<img src="./index_files/i/phong3.jpg" width="155px">
+    </div>    
+<!-- End Left column -->    
+
+	<!-- Right column -->
+    <div id="col2">
+    <div id="general">
+	   
+	   <h2>About me</h2>
+	<p>
+       	I am Trinh Tuan Phong, the last year Ph.D. student-ATER <br/> 
+in <a href="http://www.math.univ-paris13.fr/" target=_top> Department of  Mathematics </a>, University of Paris 13, France.<br/>
+I am working under the supervision of Prof. <a href="http://www.math.jussieu.fr/~klopp/" target=_top>Frédéric Klopp</a> on random Schr&#246dinger operators.<br/>
+More concretely, I studies decorrelation estimates for the discrete Anderson model and the lattice Hamiltonian with off-diagonal disorder. Besides, I am interested in the study of resonances for some 1D Schr&#246dinger operators with periodic or random potentials in discrete setting.<br/> 
+My CV is available <a href="cv.pdf"> here. </a>
+	</p>
+    <h2>Address</h2>
+    
+<p>
+<table class="contact" width="100%" cellpadding="5" border="0"> 
+       <tr> 
+            <td align=left> 
+                            LAGA <br/>
+                            Université Paris 13 <br/>
+                            99 avenue J.B. Clément <br/>
+                            93430 Villetaneuse <br/> 
+                            France <br/>
+            </td>
+        
+            <td>
+                            Email:<a href ="mailto: trinh@math.univ-paris13.fr"> 
+                            trinh@math.univ-paris13.fr</a>
+                            <br/> 
+                            Tel:(+33)149404085<br/>
+                            Fax:(+33)149403568<br/>
+		         
+             </td>               
+       </tr>
+       </table>
+
+</p>
+       
+</div>
+</div>
+<!-- End Right column -->
+
+<!-- Footer -->
+
+<div id="footer">
+    <p><span class="left"> 
+Updated on January 6th, 2014
+	<!--<a href="" onmouseover="this.href='mailto:trinh@math.univ-paris13.fr'" onmouseout="this.href=''">trinh@math.univ-paris13.fr</a></span> -->
+    </p>
+</div>
+
+<!-- <div id="footer">
+    <p><span class="right"> 
+	Updated on January 6th, 2014
+    </p>
+</div>
+-->
+<!-- End of Footer -->
+
+</div>
+<!-- end of main content -->
+</div> <!-- for wrapper-->
+</div> <!-- for outerwrapper-->
+
+
+</body>
+</html>

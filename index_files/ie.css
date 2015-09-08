@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+/* ie 6 */
+* html #col1 ul li a {width:154px;}
+* html #col1 ul li ul li a {width:141px;}
+* html #col2 ul li {background-position:0 6px;}
+* html li#ql ul li {background-position:0 6px;}
+
+
+/* ie 7 */
+*:first-child+html #col2 ul li {background-position:0 6px;}
+*:first-child+html li#ql ul li {background-position:0 6px;}
+

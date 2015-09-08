@@ -1,0 +1,186 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   
+   <title>Trinh Tuan Phong</title>
+   
+   <link type="text/css" rel="stylesheet" href="index_files/screen.css" media="screen">
+   <link type="text/css" rel="stylesheet" href="index_files/ie.css" media="screen">
+   
+   <style type="text/css">
+      img.floatLEFT { float: left; margin: 16px }
+   </style>
+   
+   <script type="text/javascript" src="index_files/scripts.js"></script>
+</head>
+
+<body class="home">
+
+<div id="outerwrapper">
+<div id="wrapper">
+
+<div id="dsfhead">
+  <h1></h1>
+  <div id="dsfhead_var"></div>
+</div>
+
+<div id="main">
+
+<!-- Left column -->
+    <div id="col1">
+
+    <ul>
+    	<li id="home"> <a href="index.html">Home</a> </li>
+    	<li id="moreaboutme"><a href="moreaboutme.html">Curriculum Vitae</a></li>
+    	<li id="research"><a href="research.html">Research</a></li>
+        <li id="teaching"><a href="teaching.html">Teaching</a></li>
+        <li id="link"> <a href="link.html"> Useful links</a></li>
+    </ul>
+
+	<img src="./index_files/i/phong3.jpg" width="155px">
+    </div>    
+<!-- End Left column -->    
+
+
+<!-- Right column -->
+<div id="col2">
+<div id="general">
+
+<!-- main content -->
+
+<h2>2014-2015: ATER-96 hours (one year teaching position), Univ. of Paris Dauphine</h2>
+<p>
+<h3 id="workshop">Algèbre linéaire 3 (~ 48h TDs), L2, MIDO</h3>
+<h3 id="workshop">Analyse Fonctionnelle (~ 48h TDs), L3, MIDO</h3>
+</p>	   
+
+<h2>2013-2014: ATER-192 hours (one year teaching position), Univ. of Paris 13</h2>
+<p>
+    	<h3 id="workshop">Analyse 1 (53h Cours/TDs), L1, Inst. Galilée</h3>
+          <ul>
+			<li type="square"> <a href="analyse1/chapitre1.pdf", target=_top>Chapitre 1</a>: Fonctions numériques</li>	                                
+             <li type="square"> <a href="analyse1/chapitre2.pdf", target=_top>Chapitre 2</a>: Les premières fonctions de référence</li>	                                
+             <li type="square"> <a href="analyse1/chapitre3.pdf", target=_top>Chapitre 3</a>: Les fonctions réciproques de référence</li>	                                
+               <li type="square"> <a href="analyse1/chapitre4.pdf", target=_top>Chapitre 4</a>: Intégrations et applications aux équations différentielles linéaires d'ordre 1</li>	                                                              
+	       <li type="square">Feuilles d'exercices des contrôles continus <a href="analyse1/cc1.pdf">1</a>, 
+	       <a href="analyse1/cc2.pdf">2</a>, <a href="analyse1/cc3.pdf">3</a>, 
+	       <a href="analyse1/cc4.pdf">4</a> et <a href="partielle.pdf">partiel de mi-semestre</a>	                                                              
+	       </li> 
+	        </ul>
+	                   
+<h3 id="workshop">Intégrations et probabilités (78h TDs), L3 maths, Inst. Galilée</h3>
+
+<ul>
+<li> Cours du Prof. <a href="http://www.math.univ-paris13.fr/~yueyun/" target=_top>Yueyun HU</a></li>
+
+<li type="square">Ensembles et Tribus: <a href="integration/td1.pdf", target=_top>Feuille de TD 1</a></li>
+<li type="square"> Fonctions mesurables: <a href="integration/td2.pdf", target=_top>Feuille de TD 2</a></li>
+<li type="square"> Mesures et Intégration: <a href="integration/td3.pdf", target=_top>Feuille de TD 3</a></li>
+<li type="square"> Convergence monotone et Lemme de Fatou: <a href="integration/td4.pdf", target=_top>Feuille de TD 4</a></li>
+<li type="square"> Convergence dominée: <a href="integration/td5.pdf", target=_top>Feuille de TD 5</a></li>
+<li type="square"> Intégrales dépandent d'un paramètre: <a href="integration/td6.pdf", target=_top>Feuille de TD 6</a></li>
+<li type="square"> Mesures produits et Changements de variables: <a href="integration/td7.pdf", target=_top>Feuille de TD 7</a></li>
+
+</ul>
+          
+<h3 id="workshop">Probabilités Statistiques (27h TDs), L1, Inst. Galilée</h3>
+<h3 id="workshop">Algèbre linéaire 1 (15h TDs), L1, Inst. Galilée</h3>
+<h3 id="workshop">Cours de soutien Maths, L1, IUT Villetaneuse</h3>
+                              
+</p>
+<!-- End of Reseach-->
+<h2 id="teach">2012-2013: Teaching assistant (64h), Univ. of Paris 13</h2>
+<p>
+<h3 id="workshop">Méthodes Mathématiques pour les Sciences Physiques (TDs), L2 Physique-Chimie, Inst. Galilée</h3>
+<ul> 
+	<li>Cours du Prof. Fran&#231ois Béguin  </li>
+	<li type="square"> Feuilles exercices du premier mi-semestre: 
+	<a href="MMFP/exercise7.pdf">Feuille 1</a>, <a href="MMFP/exercise8.pdf">Feuille 2</a>, 
+	<a href="MMFP/exercise9.pdf">Feuille 3</a>, 
+	<a href="MMFP/partiel.pdf">partiel</a> de mi-semestre</li>
+	
+	<li type="square"> Feuilles exercices du deuxième mi-semestre 
+	sur les intégrales multiples, curvilignes et formes différentielles:
+	<a href="MMFP/integrale.pdf">Feuille 4</a>, <a href="MMFP/integrale_m.pdf">Feuille 5</a>,  
+	<a href="MMFP/integrale_c.pdf">Feuille 6</a> (source: http://www.bibmath.net)
+	</li> 
+	
+	<!--  <li type="square"> Le note de cours peut être trouvé sur la page personnel du Prof. 
+	<a href="">Francois Béguin</a> </li> -->
+	
+</ul>
+<h3 id="workshop">Mathématiques discrètes (TDs), L1, IUT Villetaneuse</h3>
+<ul>
+	<li> Cours de Yannick Henrio </li>
+</ul>
+</p>
+
+<h2 id="teach">2011-2012: Teaching assistant (64h), Univ. of Paris 13</h2>
+
+<p>
+<h3 id="workshop">Mathématiques discrètes (TDs), L1 IUT Villetaneuse</h3>
+<ul>
+	<li> Cours de Yannick Henrio </li>
+</ul>
+
+<h3 id="workshop">“Kholles” pour MIEF et Maths, Inst. Galilée</h3>
+<ul>
+	<li type="square"> Feuilles d'exos: <a href="kholles/colle1.pdf">Feuille 1</a>, <a href="kholles/colle2.pdf">Feuille 2</a>  </li>
+</ul>
+
+</p>
+
+
+<h2 id="teach">2008-2009: Teaching assistant, National University of Vietnam, Vietnam</h2>
+<p>
+<h3 id="workshop">Analysis 1 (Cours/TDs)</h3>
+</p>
+
+
+
+<!-- end of main content-->	   
+
+<!-- Footer -->
+
+
+
+<div id="footer">
+
+    <p><span class="left"> 
+Updated on January 6th, 2014
+
+	<!--<a href="" onmouseover="this.href='mailto:trinh@math.univ-paris13.fr'" onmouseout="this.href=''">trinh@math.univ-paris13.fr</a></span> -->
+
+    </p>
+
+</div>
+
+
+
+
+
+<!-- End of Footer -->
+
+
+
+
+
+</div><!-- for general-->
+</div><!-- for right column-->
+
+<!-- End Right column -->
+
+</div>
+<!-- end of main content -->
+
+</div> <!-- for wrapper-->
+</div> <!-- for outerwrapper-->
+
+
+
+
+
+</body>  
+  </html>       
+     

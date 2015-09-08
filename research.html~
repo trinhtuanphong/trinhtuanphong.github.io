@@ -1,0 +1,190 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   
+   <title>Trinh Tuan Phong</title>
+   
+   <link type="text/css" rel="stylesheet" href="index_files/screen.css" media="screen">
+   <link type="text/css" rel="stylesheet" href="index_files/ie.css" media="screen">
+   
+   <style type="text/css">
+      img.floatLEFT { float: left; margin: 16px }
+   </style>
+   
+   <script type="text/javascript" src="index_files/scripts.js"></script>
+</head>
+
+<body class="home">
+
+<div id="outerwrapper">
+<div id="wrapper">
+
+<div id="dsfhead">
+  <h1></h1>
+  <div id="dsfhead_var"></div>
+</div>
+
+<div id="main">
+
+<!-- Left column -->
+    <div id="col1">
+
+    <ul>
+    	<li id="home"> <a href="index.html">Home</a> </li>
+	<li id="moreaboutme"> <a href="moreaboutme.html">Curriculum Vitae</a> </li>
+    	<li id="research"><a href="research.html">Research</a></li>
+        <li id="teaching"><a href="teaching.html">Teaching</a></li>
+        <li id="link"> <a href="link.html"> Useful links</a></li>
+    </ul>
+
+	<img src="./index_files/i/phong3.jpg" width="155px">
+    </div>    
+<!-- End Left column -->    
+
+
+<!-- Right column -->
+<div id="col2">
+<div id="general">
+
+<!-- main content -->
+	   
+<h2>Research</h2>
+<p>
+    	<h3 id="pub">Publications</h3>
+          <ol>
+	<li type="1"> <b> Resonances for 1D half-line periodic operators: I. Generic case, 28 pages (to be submitted soon) </b> <br/>
+<li type="1"> <b> Resonances for 1D half-line periodic operators: II. Non generic case, 27 pages (to be submitted soon) </b> <br/> 
+            <li type="1"> <b>  Decorrelation estimates for a 1D tight binding model in the localized regime, </b> <br/> 
+Annales Henri Poincaré, Volume 15, Issue 3, <a href="AHP.pdf"target=_top>pp. 469-499</a>, 2014 
+          	<li type="1"> <b>Global attractor for a semilinear parabolic system,</b><br/>
+             (with C.T.Anh)<br/>
+                                       <span class="journal">Vietnam Journal of Mathematics, Vol. 37, No. 1,</span> 
+	                                <a href="http://www.math.ac.vn/publications/vjm/VJM_37/PDF_1_2009/Bai6.pdf" target=_top> pp. 49-66</a>, 2009 
+	                                
+                                        
+	        <li type="1"> <b>Global attractor for a semilinear parabolic equation involving Grushin operator,</b><br/>
+             (with C.T.Anh, T.D.Ke, P.Q.Hung)<br/>
+                                       <span class="journal"> Electron. J. Diff. Eqns., Vol. 2008(2008), No. 32,</span> 
+	                                <a href="http://ejde.math.txstate.edu/Volumes/2008/32/abstr.html" target=_top> pp. 1-11</a>, 2008 	                                                         
+          </ol>
+           
+
+
+
+<h3>Recent presentations</h3>
+
+          <ul>
+			<li> 
+	            	<a href="young_seminar.pdf" target=_top> Young Seminar</a> of the trimestre "Variational and Spectral Methods in Quantum Mechanics", <a href="http://www.ihp.fr/fr" target=_top> Inst. Henri Poincaré</a>, July 3, 2013</li>
+			
+			<li> <a href="Rennes.pdf" target=_top>
+	            	Seminar of PDEs</a> (in French), <a href="http://webmath.univ-rennes1.fr/edp/seminaire.html" target=_top>IRMAR </a>, Univ. of Rennes 1, May 2, 2013</li>
+
+			<li> <a href="http://www.math.univ-paris13.fr/~montaru/page_seminaire_des_doctorants_laga.html" target=_top> Seminar of Ph.D. students</a>, 
+	                              Univ. of Paris 13, February 15, 2013. </li> 
+			
+			<li> <a href="poster_IHP.pdf" target=_top>
+	            Conference on Quantum Disordered Systems</a> (poster), <a href="http://www.ihp.fr/fr" target=_top>Inst. Henri Poincaré</a>, Paris, June 18-22, 2012</li>
+
+			
+			<li> <a href="JED_Phong.pdf" target=_top>
+	            Journée de l'école doctorale</a> (in French), Univ. of Paris 13, June 6, 2012</li>
+
+
+	         <!--		<li> <a href="http://www.math.univ-paris13.fr/~montaru/page_seminaire_des_doctorants_laga.html" target=_top> Seminar for Ph.D. students</a>, 
+	                              Univ. of Paris 13, April 12, 2012. </li> 
+
+                 -->
+	           
+			<li> <a href="demi-parcours.pdf" target=_top>
+	            The presentation for the first half of Ph.D. study period </a>(in French), Univ. of Paris 13, March 8, 2012 </li>
+	           	
+				            	
+	            
+         </ul>
+
+
+
+
+
+        <h3 id="workshop">Schools, conferences and workshops</h3>
+          <ul>
+		<li> <a href="http://ihp2013.math.cnrs.fr" target=_top>  Variational and Spectral Methods in Quantum Mechanics
+	            </a>, Inst. Henri Poincaré, Paris, April 15 to July 12, 2013</li>
+          	<li> <a href="http://ihp.fr/ceb/disquant" target=_top>
+	            Conference on Quantum Disordered Systems</a>, Inst. Henri Poincaré, Paris, June 18-22, 2012</li>     
+        
+          	<li> <a href="http://www.math.univ-paris13.fr/~boumaza/colloque_ANR_2012.html" target=_top>
+	            Mathématiques des systèmes quantiques désordonnés</a>, IMJ, Univ. of Paris 6 and Univ. of Paris 13, May 28-30, 2012</li>     
+         
+            <li> <a href="http://math.arizona.edu/~mathphys/school_2012/index.html" target=_top> Arizona School of Analysis and Mathematical Physics</a>, 
+            Tucson, Arizona, March 12-16, 2012</li> 
+          
+            <li> <a href="http://www-ljk.imag.fr/membres/CHANT/consultation.php?INFO=CHANT2011_2" target=_top>  Colloquium Interactions PDE/Probabilities: Probabilistic models for the molecular simulation</a>,<br/> 
+             GdR Chant, Univ. of Grenoble 1, November 23-25, 2011</li>  
+             
+             <li> <a href= "http://www.math.univ-paris13.fr/laga/activite/colloque/" target=_top>The conference of semi-classical waves</a>, 
+             Univ. of Paris 13, April 5-7, 2011 </li>
+            
+             <li><a href="http://math.univ-lyon1.fr/journees/" target=_top> Challenges in Aperiodic Media, conference around the 65th birthday of Jean Bellissard </a>,<br/> 
+            Univ. of Lyon 1, 28 February-2 March, 2011</li> 
+        </ul>
+                          
+    </p>
+<!-- End of Reseach-->
+
+<!--Teaching
+<p>
+  <h2 id="teach">Teaching</h2>
+	<ul>
+
+		<li> 2013-2014: One-year teaching position (ATER-poste complet),<br/> Department of Mathematics, Univ. of Paris 13</li>
+
+		<li> 2012-2013: Teaching assistant: Mathematical Methods for Physics, Inst. Galilée, Univ. of Paris 13</li>
+  		<li>2011-2012: Teaching assistant: Discrete Mathematics, IUT, Univ. of Paris 13</li>
+  		<li>2011-2012: Teaching assistant:“Kholles” for MIEF and Mathematics classes, Inst. Galilée, Univ. of Paris 13</li>
+  		<li>2008-2009: Teaching assistant: Analysis 1, National University of Vietnam, Vietnam</li>
+  
+  	</ul>  
+</p>
+--> 
+
+
+
+<!-- end of main content-->	   
+
+<!-- Footer -->
+
+<div id="footer">
+    <p><span class="left"> 
+Updated on January 6th, 2014
+	<!--<a href="" onmouseover="this.href='mailto:trinh@math.univ-paris13.fr'" onmouseout="this.href=''">trinh@math.univ-paris13.fr</a></span> -->
+    </p>
+</div>
+
+
+<!-- End of Footer -->
+
+
+
+
+
+</div><!-- for general-->
+</div><!-- for right column-->
+
+<!-- End Right column -->
+
+</div>
+<!-- end of main content -->
+
+</div> <!-- for wrapper-->
+</div> <!-- for outerwrapper-->
+
+
+
+
+
+</body>  
+  </html>       
+     

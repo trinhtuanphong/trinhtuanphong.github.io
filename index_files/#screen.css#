@@ -112,7 +112,7 @@ blockquote {
 	
 	margin:0 auto;
 	height:79px;
-	background:url(i/header.png) top left no-repeat;
+	background:url(i/main_2.gif) top left no-repeat;
 
 body.home #dsfhead_var {
 	/*	background:url(i/header2.jpg) top left no-repeat; */
